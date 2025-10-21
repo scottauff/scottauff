@@ -54,5 +54,3 @@ I am a fullstack software engineer from usa
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scottauff&show_icons=true&locale=en" alt="scottauff" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scottauff&" alt="scottauff" /></p>
-
-<p>[![An image of @scottauff's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/scottauff)](https://holopin.io/@scottauff)</p>
