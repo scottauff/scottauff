@@ -52,4 +52,5 @@ I am a fullstack software engineer from usa
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scottauff&show_icons=true&locale=en" alt="scottauff" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scottauff&" alt="scottauff" /></p>
+<p></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=scottauff" alt="GitHub Streak" /></a>
