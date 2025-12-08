@@ -23,6 +23,7 @@ I am a fullstack software engineer from usa
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/scottauffhammer)
+[<img alt="Static Badge" src="https://img.shields.io/badge/nostr-x?style=for-the-badge&logoColor=white&color=purple" />](https://njump.me/npub1rxw8ecauf2sxw8k0vqkhzg8l9zjsmwehw7yyl9mxg5r8nyhurqaqpe2c2e)
 <!-- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)
